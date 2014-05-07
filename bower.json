@@ -1,0 +1,29 @@
+{
+  "name": "textarea-maxlength.ie.shim",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pandell/textarea-maxlength.ie.shim",
+  "authors": [
+    "Chris O'Brien <spam@prettycode.org>",
+    "Tim Phillips <timp@pandell.com>"
+  ],
+  "description": "jQuery shim for supporting textarea maxlength attribute in IE < 10",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "textarea",
+    "maxlength",
+    "shim"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
